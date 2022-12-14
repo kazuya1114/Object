@@ -12,7 +12,7 @@
 <p>また、修正を行うファイルの分離もプレゼンテーション層のみに分離できている(この場合、改修ではないが)</p>
 <br></br>
 
-## 3. クライアントサーバシステムの概念を元にしたデザインパターン
+## 3. デザインパターン
 - [ドメイン駆動設計(DDD)](https://qiita.com/ynstkt/items/7379062743bdec2df6e3)
 - MVC(Model View Controller)
 - MVVM(Model View ViewModel> etc...
