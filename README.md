@@ -13,6 +13,6 @@
 <br></br>
 
 ## 3. クライアントサーバシステムの概念を元にしたデザインパターン
-- ドメイン駆動設計(DDD)
+- [ドメイン駆動設計(DDD)](https://qiita.com/ynstkt/items/ddbb905adf0583121530)
 - MVC(Model View Controller)
 - MVVM(Model View ViewModel> etc...
